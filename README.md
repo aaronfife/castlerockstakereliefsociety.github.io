@@ -2,10 +2,9 @@
 ## Header2
 ### Header3
 
-<div style="page-break-after: always;"></div>
-<div style="page-break-after: always;"></div>
-<div style="page-break-after: always;"></div>
-<div style="page-break-after: always;"></div>
+\pagebreak
+\pagebreak
+\pagebreak
 
 #### Header4
 ##### Header5
